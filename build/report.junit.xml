@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="NameCaseLib Test Suite" tests="13" assertions="13" errors="0" failures="0" skipped="0" time="0.020675">
+    <testsuite name="NCLTest\NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" tests="13" assertions="13" errors="0" failures="0" skipped="0" time="0.020675">
+      <testcase name="test1" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="33" assertions="1" time="0.012932"/>
+      <testcase name="test2" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="40" assertions="1" time="0.001001"/>
+      <testcase name="test3" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="47" assertions="1" time="0.000341"/>
+      <testcase name="test4" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="53" assertions="1" time="0.000296"/>
+      <testcase name="test5" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="60" assertions="1" time="0.000294"/>
+      <testcase name="test6" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="67" assertions="1" time="0.000248"/>
+      <testcase name="test7" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="74" assertions="1" time="0.000607"/>
+      <testcase name="test8" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="81" assertions="1" time="0.000590"/>
+      <testcase name="test9" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="88" assertions="1" time="0.000552"/>
+      <testcase name="test10" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="93" assertions="1" time="0.000299"/>
+      <testcase name="test11" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="100" assertions="1" time="0.000350"/>
+      <testcase name="test12" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="105" assertions="1" time="0.002812"/>
+      <testcase name="test13" class="NCLTest\NameCaseRuTest" classname="NCLTest.NameCaseRuTest" file="/home/dimedrol/Documents/github/NameCaseLib/tests/Library/CoreMethodsTest.php" line="110" assertions="1" time="0.000354"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
