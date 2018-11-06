@@ -612,7 +612,7 @@ class NameCaseCore extends NCL
                 $exclusion = array('тулуз'); //исключения
                 $cur_word_ = mb_strtolower($cur_word);
                 if (!in_array($cur_word_, $exclusion)) {
-                    $o_nc = new NCLNameCaseRu();
+                    $o_nc = new \NCL\NameCaseRu();
                     $o_nc->detectNamePart($o_ncw);
                     $is_norm_rules = ($o_ncw->getNamePart() == 'S');
                 } else {
